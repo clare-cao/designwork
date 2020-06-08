@@ -233,7 +233,7 @@ p a:hover,
 .footer .navigation a:hover,
 .footer .social-list a:hover,
 .footer .footer-bottom a:hover{
-	color: #00cccc;
+	color: #00b3b3;
 }
 a[class*="icon-"]:hover{
 	text-decoration: none;
@@ -392,24 +392,24 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #00cccc;
-	border-color: #00cccc;
+	background-color: #00b3b3;
+	border-color: #00b3b3;
 }
 .bkg-hover-theme:hover{
-	background-color: #00cccc;
-	border-color: #00cccc;
+	background-color: #00b3b3;
+	border-color: #00b3b3;
 }
 .border-theme{
-	border-color: #00cccc;
+	border-color: #00b3b3;
 }
 .border-hover-theme:hover{
-	border-color:#00cccc
+	border-color:#00b3b3;
 }
 .color-theme{
-	color: #00cccc;
+	color: #00b3b3;
 }
 .color-hover-theme:hover{
-	color: #00cccc;
+	color:#00b3b3;
 }
 
 /*------------------------------------------------------------------
@@ -1771,21 +1771,21 @@ body,
 @keyframes color {
 	100%,
 	0% {
-		stroke: #00cccc;
-		border-bottom-color: #00cccc;
+		stroke: #00b3b3;
+		border-bottom-color: #00b3b3;
 	}
 	40% {
-		stroke: #00cccc;
-		border-bottom-color: #00cccc;
+		stroke: #00b3b3;
+		border-bottom-color: #00b3b3;
 	}
 	66% {
-		stroke: #00cccc;
-		border-bottom-color:#00cccc;
+		stroke: #00b3b3;
+		border-bottom-color:#00b3b3;
 	}
 	80%,
 	90% {
-		stroke: #00cccc;
-		border-bottom-color: #00cccc;
+		stroke: #00b3b3;
+		border-bottom-color: #00b3b3;
 	}
 }
 
@@ -2471,7 +2471,7 @@ textarea.required-field{
 	background: none;
 	box-shadow: none;
 	color: #1e1e1e;
-	border-bottom-color: #00cccc;
+	border-bottom-color: #00b3b3;
 	position: relative;
 }
 .form-element::-webkit-input-placeholder{
@@ -2510,18 +2510,18 @@ textarea.required-field{
 }
 .checkbox:checked + .checkbox-label:before {
 	content: '\e63a';
-	background: #00cccc;
-	border-color: #00cccc;
+	background: ##00b3b3;
+	border-color: #00b3b3;
 	color: #fff;
 }
 .radio:checked + .radio-label:before {
-	background:##00cccc;
+	background:#00b3b3;
 }
 .checkbox.required-field{
 	position: absolute;
 }
 .checkbox.required-field + .checkbox-label:before{
-	border-color: #00cccc;
+	border-color: #00b3b3;
 }
 
 /* Contact Specific */
