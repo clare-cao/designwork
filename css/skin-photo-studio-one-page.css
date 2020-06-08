@@ -233,7 +233,7 @@ p a:hover,
 .footer .navigation a:hover,
 .footer .social-list a:hover,
 .footer .footer-bottom a:hover{
-	color: #304cd1;
+	color: #00cccc;
 }
 a[class*="icon-"]:hover{
 	text-decoration: none;
@@ -392,24 +392,24 @@ body,
 
 /* theme */
 .bkg-theme{
-	background-color: #304cd1;
-	border-color: #304cd1;
+	background-color: #00cccc;
+	border-color: #00cccc;
 }
 .bkg-hover-theme:hover{
-	background-color: #304cd1;
-	border-color: #304cd1;
+	background-color: #00cccc;
+	border-color: #00cccc;
 }
 .border-theme{
-	border-color: #304cd1;
+	border-color: #00cccc;
 }
 .border-hover-theme:hover{
-	border-color: #304cd1;
+	border-color:#00cccc
 }
 .color-theme{
-	color: #304cd1;
+	color: #00cccc;
 }
 .color-hover-theme:hover{
-	color: #304cd1;
+	color: #00cccc;
 }
 
 /*------------------------------------------------------------------
@@ -1771,21 +1771,21 @@ body,
 @keyframes color {
 	100%,
 	0% {
-		stroke: #304cd1;
-		border-bottom-color: #304cd1;
+		stroke: #00cccc;
+		border-bottom-color: #00cccc;
 	}
 	40% {
-		stroke: #304cd1;
-		border-bottom-color: #304cd1;
+		stroke: #00cccc;
+		border-bottom-color: #00cccc;
 	}
 	66% {
-		stroke: #304cd1;
-		border-bottom-color: #304cd1;
+		stroke: #00cccc;
+		border-bottom-color:#00cccc;
 	}
 	80%,
 	90% {
-		stroke: #304cd1;
-		border-bottom-color: #304cd1;
+		stroke: #00cccc;
+		border-bottom-color: #00cccc;
 	}
 }
 
@@ -2471,7 +2471,7 @@ textarea.required-field{
 	background: none;
 	box-shadow: none;
 	color: #1e1e1e;
-	border-bottom-color: #304cd1;
+	border-bottom-color: #00cccc;
 	position: relative;
 }
 .form-element::-webkit-input-placeholder{
@@ -2510,18 +2510,18 @@ textarea.required-field{
 }
 .checkbox:checked + .checkbox-label:before {
 	content: '\e63a';
-	background: #304cd1;
-	border-color: #304cd1;
+	background: #00cccc;
+	border-color: #00cccc;
 	color: #fff;
 }
 .radio:checked + .radio-label:before {
-	background: #304cd1;
+	background:##00cccc;
 }
 .checkbox.required-field{
 	position: absolute;
 }
 .checkbox.required-field + .checkbox-label:before{
-	border-color: #304cd1;
+	border-color: #00cccc;
 }
 
 /* Contact Specific */
